@@ -12,5 +12,6 @@ public class Code02_12 {
         num2 = Double.parseDouble(str);
         System.out.println("문자열 ==> 실수 : " + num2);
 
+
     }
 }
