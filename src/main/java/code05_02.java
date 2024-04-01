@@ -3,8 +3,8 @@ public class code05_02 {
         int num = 99;
 
         if (num < 100) {
-            System.out.println("100보다 ");
-            System.out.println("작습니다.");
+            System.out.print("100보다 ");
+            System.out.print("작습니다.");
         }
         System.out.println("난 조건절과 상관없이 무조건 실행된다.");
     }
