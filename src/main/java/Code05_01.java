@@ -1,4 +1,4 @@
-public class code05_01 {
+public class Code05_01 {
     public static void main(String[] args){
         int num = 99;
 
