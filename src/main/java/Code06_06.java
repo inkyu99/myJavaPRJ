@@ -1,4 +1,4 @@
-public class code06_06 {
+public class Code06_06 {
     public static void main(String[] args) {
         int hap=0;
         for (int i = 1 ; i <= 10 ; i++) {
