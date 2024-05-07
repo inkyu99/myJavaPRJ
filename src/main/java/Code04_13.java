@@ -1,4 +1,4 @@
-public class code04_13 {
+public class Code04_13 {
     public static void main(String[] args) {
         String str = "  한글   ABCD  efgh  ";
         String upper = "";
