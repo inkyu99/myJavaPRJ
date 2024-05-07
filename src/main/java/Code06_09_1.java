@@ -1,4 +1,4 @@
-public class code06_09_1 {
+public class Code06_09_1 {
     public static void main(String[] args) {
         for (int k = 2; k <= 9; k++) {
             for (int i = 1; i <= 9; i++) {
