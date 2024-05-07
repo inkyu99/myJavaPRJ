@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class code06_14 {
+public class Code06_14 {
     public static void main(String[] args){
         Scanner s =new Scanner(System.in);
         int hap = 0;
