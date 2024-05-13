@@ -8,7 +8,7 @@ class Rabbit6 {
         this.yPos = y;
     }
 }
-class MouseRabbit extends Rabbit6 {
+class HouseRabbit extends Rabbit6 {
     String owner;
     void eatFeed() {
         System.out.println("집토끼가 사료를 먹습니다.");
