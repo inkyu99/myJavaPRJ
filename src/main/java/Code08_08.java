@@ -19,7 +19,7 @@ class MountRabbit2 extends Rabbit8 {
     }
 }
 
-public class Code008_08{
+public class Code08_08{
 
     public static void main(String[] args) {
         HouseRabbit hRabbit = new HouseRabbit();
