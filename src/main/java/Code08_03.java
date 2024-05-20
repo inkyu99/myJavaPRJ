@@ -22,7 +22,7 @@ class MountainRabbit7 extends Rabbit6 {
 }
 public class Code08_03 {
     public static void main(String[] args) {
-        HouseRabbit hRabbit = new HouseRabbit();
+        HouseRabbit1 hRabbit = new HouseRabbit1();
         MountainRabbit7 mRabbit = new MountainRabbit7();
 
         hRabbit.shape = "삼각형";
