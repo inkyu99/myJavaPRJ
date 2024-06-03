@@ -21,6 +21,18 @@ public class Code09_03 {
         hap = numAry[0] + numAry[1] + numAry[2] + numAry[3];
         System.out.print("합계 ==> " + hap);
 
+        hap = 0;
+
+        for (int i = 0; i< numAry.length; i++) {
+            hap += numAry[i];
+        }
+
+        hap = 0;
+
+        for (int i : numAry) {
+            hap += i;
+        }
+
 
         s.close();
     }
