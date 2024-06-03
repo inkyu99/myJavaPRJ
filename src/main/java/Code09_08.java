@@ -13,7 +13,7 @@ public class Code09_08 {
     String[] strAry = {"한빛", "아카데미", "난생", "자바", "열공"};
     Arrays.sort(strAry, Collections.reverseOrder());
     for (String data : strAry) {
-        System.out.print(data + "");
+        System.out.print(data + " ");
         }
     }
 }
